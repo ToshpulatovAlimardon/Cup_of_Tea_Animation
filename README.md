@@ -1,4 +1,4 @@
-# DOM-change-tab
+# Hot Cup of Tea
 - HTML5
 - Css3
 - can you view [my Project](https://toshpulatovalimardon.github.io/Hot-Cup-of-Tea/)
